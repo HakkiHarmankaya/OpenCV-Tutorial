@@ -121,7 +121,4 @@ plt.show()
 
 ---
 
-## 📎 İletişim
 
-🔗 [Web Siteme Bakmak İçin Tıkla](https://www.hakkiharmankaya.com/)  
-📬 hakkiharmankaya@gmail.com
